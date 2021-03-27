@@ -12,7 +12,7 @@ import FriendDetail from './components/FriendDetail/FriendDetail';
 
 function App() {
   
-  return (
+  return(
     <Router>
      <Switch>
        <Route path = "/home">
