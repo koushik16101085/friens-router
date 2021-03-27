@@ -12,6 +12,7 @@ import FriendDetail from './components/FriendDetail/FriendDetail';
 
 function App() {
   
+  
   return(
     <Router>
      <Switch>
